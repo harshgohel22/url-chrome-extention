@@ -1,6 +1,6 @@
 # Leads Tracker Chrome Extension
 
-## 📝Description
+## Description
 Leads Tracker is a simple, lightweight Google Chrome extension designed to help you save and manage important URLs or text snippets directly from your browser. Whether you are conducting research, job hunting, or just want to bookmark specific pages quickly, this tool lets you save your current tab or manually input links with a single click. All data is saved securely in your browser's local storage.
 
 ##  Features
